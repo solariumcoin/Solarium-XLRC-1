@@ -133,7 +133,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Mambo wallet [here](https://github.com/solariumcoin/wallet)
+* Download and install the Solarium wallet [here](https://github.com/solariumcoin/wallet)
 ***
 
 ***Step 2***
